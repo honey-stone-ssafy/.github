@@ -119,8 +119,12 @@
 
 <br />
 
+## 🎥 시연 영상
+https://youtu.be/hK9CBDiWwXo
 
-## ⚙️ 서비스 화면
+<br/>
+
+## 💌 서비스 화면
 ### 회원가입 페이지
 <img width="700" src="https://github.com/user-attachments/assets/8034cdd8-3eaf-4ed5-a37f-12f4e473603e" /><br/>
 - **닉네임 중복확인**
@@ -187,4 +191,4 @@
 <img width="700" src="https://github.com/user-attachments/assets/d3875506-6808-452c-ab4f-c0f6bee2cc43" /><br/>
 - **팔로워/팔로잉 목록 조회**
 	- 사용자는 본인을 팔로잉하고 있는 사용자와 본인이 팔로잉하고 있는 사용자의 목록을 조회할 수 있습니다.
-  - 팔로우 버튼을 통해 팔로잉 등록 및 취소가 가능합니다.                 |
+  - 팔로우 버튼을 통해 팔로잉 등록 및 취소가 가능합니다.
